@@ -1,0 +1,6 @@
+.underline {
+  height: 0.25rem;
+  width: 5rem;
+  margin: 1rem 0;
+  background: var(--clr-dark-2);
+}
